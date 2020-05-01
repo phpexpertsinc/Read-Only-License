@@ -1,7 +1,13 @@
 # Read Only License v2.0
 The ROL is an open source license for closed source projects to share thoughts on internet.
 
-As simple as dos and don'ts.
+As simple as do's and don'ts.
+
+This License is 
+ * Copyright (c) 2018 RayPS
+ * Copyright (c) 2020 PHP Experts, Inc.
+
+https://github.com/phpexpertsinc/Read-Only-License
 
 ### YOU CAN:
 - Clone or download the project
@@ -20,5 +26,5 @@ As simple as dos and don'ts.
 - Print the code as a physical paper
 - Absolutely no StackOverflow submissions.
 
-- Forked from https://github.com/phpexpertsinc/Read-Only-License
+- Forked from https://github.com/phpexpertsinc/Read-Only-License  
   See https://github.com/RayPS/Read-Only-License/issues/1
